@@ -1,0 +1,88 @@
+{
+    "candidate": {
+        "full_name": "Seu Nome Completo",
+        "email": "seuemail@example.com",
+        "phone": "5511999999999",
+        "linkedin": "https://linkedin.com/in/seu-perfil",
+        "github": "https://github.com/seu-usuario",
+        "location": "Sua Cidade, Brasil",
+        "portfolio": "https://seu-portfolio.com",
+        "salary_expectations": "R$ 0000",
+        "english_level": "Intermediate",
+        "education": "Sua Instituição - Seu Curso"
+    },
+    
+    "resume_text": "CANDIDATE PROFILE:\nName: Seu Nome\nAge: XX years old\nTotal Experience: X+ years in Tech\nLocation: Sua Cidade, Brasil\nRole: Sua Função Principal\nEducation: Sua Formação\n\nTECHNICAL SKILLS:\n- Languages: Python, SQL, etc.\n- Cloud: Azure, AWS, etc.\n- Data: Pandas, NumPy, etc.\n- Automation: Selenium, Playwright, etc.\n- AI/ML: Suas tecnologias de IA/ML\n- Tools: Git, VS Code, etc.\n\nLANGUAGES:\n- Portuguese: Native\n- English: Seu nível\n\nKEY PROJECTS/ACHIEVEMENTS:\n- Seus principais projetos e conquistas\n\nSOFT SKILLS:\n- Suas soft skills",
+    
+    "skills": [
+        "python",
+        "sql",
+        "excel",
+        "suas",
+        "habilidades",
+        "aqui"
+    ],
+    
+    "pdf_paths": {
+        "cv_pt": "CV_Seu_Nome_PORTUGUES.pdf",
+        "cv_en": "CV_Seu_Nome_ENGLISH.pdf",
+        "cl_pt": "Cover_Letter_Seu_Nome_PT.pdf",
+        "cl_en": "Cover_Letter_Seu_Nome_EN.pdf"
+    },
+    
+    "salary_number": "0000",
+    
+    "blacklist_titles": [
+        "Gerente",
+        "Senior",
+        "Sênior",
+        "títulos",
+        "que",
+        "você",
+        "quer",
+        "evitar"
+    ],
+    
+    "search": {
+        "keywords": [
+            "Python Junior",
+            "Data Science Junior",
+            "Suas palavras-chave de busca"
+        ],
+        "locations": [
+            "Brazil",
+            "Remote"
+        ],
+        "platforms": [
+            "LinkedIn"
+        ]
+    },
+    
+    "answers": {
+        "years_experience": "2",
+        "authorized_to_work": "Yes",
+        "sponsorship_required": "No",
+        "gender": "Male",
+        "hispanic_latino": "No",
+        "veteran": "No",
+        "disability": "No"
+    },
+    
+    "credentials": {
+        "linkedin": {
+            "email": "seu-email-linkedin@example.com",
+            "password": "sua-senha-aqui"
+        }
+    },
+    
+    "ai_rules": {
+        "city_country": "Sua Cidade, Brasil",
+        "salary_brl": "3500",
+        "salary_usd": "3000",
+        "experience_years_python": "5",
+        "experience_years_cloud": "3",
+        "remote_work": "Yes",
+        "authorized": "Yes",
+        "sponsorship": "No"
+    }
+}
