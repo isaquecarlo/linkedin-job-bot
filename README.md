@@ -1,6 +1,6 @@
 # LinkedIn Job Application Bot
 
-Bot automatizado para candidaturas em vagas do LinkedIn usando Playwright e IA (Google Gemini + Ollama).
+Bot automatizado para realizar candidaturas em vagas do LinkedIn usando Playwright e IA (Google Gemini + Ollama).
 
 ## 🚀 Funcionalidades
 
